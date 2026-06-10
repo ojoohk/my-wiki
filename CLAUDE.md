@@ -1,14 +1,15 @@
-# Sociology Research Wiki — Claude Code Instructions
+# Research Wiki — Claude Code Instructions
 
 This file is read by Claude on every session. It defines the wiki's structure, accuracy rules, and the workflows Claude follows.
 
-**Replace `YOUR-NAME` and `YOUR-WIKI-PATH` placeholders before first use.**
+Name: `Junhyuk Oh`
+Wiki Path: `/Users/ojoohk/Desktop/researchwiki/my-wiki`
 
 ---
 
 ## Identity
 
-User is a sociologist at `YOUR-INSTITUTION` doing literature-heavy quantitative research. Active projects span `YOUR-CATEGORIES` (e.g., stratification, race & ethnicity, political sociology). Wiki is the primary literature management system; all paper-grade work flows through it.
+User is a evolutionary social scientist at `Department of Religious Studies` doing literature-heavy quantitative research. Active projects span `Human Behavioral Ecology & Cultural Evolution` (e.g., stratification, race & ethnicity, political sociology). Wiki is the primary literature management system; all paper-grade work flows through it.
 
 ## Language Policy
 
@@ -29,7 +30,7 @@ Your primary language for the main body, with English mirror sections after a `-
 - You collaborate with English-speaking co-authors who need to follow the wiki
 - You want the wiki's RAG/search to work in both languages
 
-Currently configured: **Option [A/B/C — fill in]**. If Option B or C, the primary non-English language is **[your language — fill in]**.
+Currently configured: **Option [C]**. If Option B or C, the primary non-English language is **[Korean]**.
 
 ### Applied per layer
 
