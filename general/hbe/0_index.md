@@ -25,9 +25,11 @@ Research applying evolutionary theory to human behavior, including life history 
 ## Key Literature (Ingested)
 
 <details>
-<summary>Other-journal references (1 paper)</summary>
+<summary>Other-journal references (3 papers)</summary>
 <ul>
+<li><a href="../../references/Power_2017_EHB.md">Power (2017) <em>EHB</em></a> — HBE/costly signaling framework applied to religious practice in Indian village (N=809); reputational consequences of religious acts analyzed via hurdle models; Bayesian updating framework for age moderation of short-term effects</li>
 <li><a href="../../references/Lang_Kundt_2023_RBB.md">Lang & Kundt (2023) <em>RBB</em></a> — applies HBE/adaptationist logic to the evolution of collective ritual; reconstructs selective pressures across the hominin lineage (variable climate, large-game hunting, between-group conflict); traces exaptation of neurocognitive mechanisms for cooperative signaling</li>
+<li><a href="../../references/Roes_Raymond_2003_EHB.md">Roes & Raymond (2003) <em>EHB</em></a> — HBE cross-cultural framework; tests Alexander's (1987) between-group competition theory using EA and SCCS; society size, resource richness, and external conflict linked via evolutionary logic</li>
 </ul>
 </details>
 
@@ -68,8 +70,9 @@ Research applying evolutionary theory to human behavior, including life history 
 ## 주요 문헌 (인제스트됨)
 
 <details>
-<summary>기타 학술지 문헌 (1편)</summary>
+<summary>기타 학술지 문헌 (2편)</summary>
 <ul>
+<li><a href="../../references/Power_2017_EHB.md">Power (2017) <em>EHB</em></a> — HBE/비용 신호 이론을 인도 농촌 마을 현지조사에 적용 (N=809); 종교 행위가 개인 평판에 미치는 영향을 허들 모형으로 분석; 연령에 따른 단기 효과 조절을 베이지안 갱신으로 설명</li>
 <li><a href="../../references/Lang_Kundt_2023_RBB.md">Lang & Kundt (2023) <em>RBB</em></a> — 집합적 의례의 진화에 HBE/적응론적 논리를 적용; 가변 기후, 대형 사냥감 사냥, 집단 간 갈등을 선택압으로 분석</li>
 </ul>
 </details>

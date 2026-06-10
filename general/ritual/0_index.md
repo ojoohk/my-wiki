@@ -17,6 +17,8 @@ Research on the form, function, and evolution of ritual behavior, with emphasis 
 - **Commitment signals**: Costly self-inflicted behaviors (pain, resource sacrifice) that honestly signal the graded strength of obligation to a risky joint action; grounded in costly signaling theory.
 - **Complex signaling system**: A set of signals that function as a unit and are redundant, degenerate, and pluripotent (Barker et al., 2019; Hebets et al., 2016).
 - **Ontogenetic ritualization**: Process by which a dyad shortens an idiosyncratic string of gestures into a simple placeholder gesture through repeated interaction (Tomasello et al., 1997).
+- **Multimodal religious signals**: Different modes of religious practice (regular worship, public ritual acts, possession) operating as distinct signaling channels with distinct costs and observability levels; each channel associated with a different reputational profile (Power, 2017).
+- **Multiplex religious signals**: Each religious modality simultaneously conveying information about multiple distinct character traits; distinct from multimodal (channels vs. messages); different receivers may attend to different aspects of the same religious act (Power, 2017).
 
 ## History of Debates
 
@@ -29,8 +31,9 @@ Research on the form, function, and evolution of ritual behavior, with emphasis 
 ## Key Literature (Ingested)
 
 <details>
-<summary>Other-journal references (1 paper)</summary>
+<summary>Other-journal references (2 papers)</summary>
 <ul>
+<li><a href="../../references/Power_2017_EHB.md">Power (2017) <em>EHB</em></a> — ethnographic test of religious signaling in Tamil Nadu (N=809); three religious modalities form multimodal/multiplex signaling system; regular worship associated with strongest prosocial reputation effects; receiver-side evidence for signaling theory of religion</li>
 <li><a href="../../references/Lang_Kundt_2023_RBB.md">Lang & Kundt (2023) <em>RBB</em></a> — target article proposing collective ritual evolved as cooperative signaling platform via similarity, coalitional, and commitment signals; conjectures ~300 ka emergence in African hominin lineage</li>
 </ul>
 </details>
@@ -62,6 +65,8 @@ Research on the form, function, and evolution of ritual behavior, with emphasis 
 - **유사성 신호**: 신호자와 수신자 사이의 공유 이해관계/상호 유사성을 나타내는 의례화된 모방 또는 동기화된 움직임.
 - **연합 신호**: 특정 협력 집단이나 공동 행동 참여 의사를 나타내는 의례화된 몸짓 또는 표식.
 - **헌신 신호**: 위험한 공동 행동에 대한 헌신 강도를 정직하게 신호하는 고비용 행동(고통, 자원 낭비); 비용 신호 이론에 근거.
+- **다중 채널 종교 신호 (multimodal)**: 정기 예배·공적 의례 행위·빙의라는 세 종교 양식이 서로 다른 비용·관찰 가능성·평판 함의를 가진 별개의 신호 채널로 기능함 (Power, 2017).
+- **다중 메시지 종교 신호 (multiplex)**: 각 종교 양식이 동시에 여러 인격 특질에 대한 정보를 전달함; 수신자마다 동일한 의례 행위에서 서로 다른 측면(강인함 vs. 헌신)을 포착할 수 있음 (Power, 2017).
 
 ## 논쟁의 역사
 
@@ -74,8 +79,9 @@ Research on the form, function, and evolution of ritual behavior, with emphasis 
 ## 주요 문헌 (인제스트됨)
 
 <details>
-<summary>기타 학술지 문헌 (1편)</summary>
+<summary>기타 학술지 문헌 (2편)</summary>
 <ul>
+<li><a href="../../references/Power_2017_EHB.md">Power (2017) <em>EHB</em></a> — 남인도 타밀나두 현지조사 (N=809); 세 종교 양식이 다중 채널·다중 메시지 신호 체계를 구성함을 실증; 정기 예배가 극적 의례보다 친사회적 평판에 미치는 효과가 강함</li>
 <li><a href="../../references/Lang_Kundt_2023_RBB.md">Lang & Kundt (2023) <em>RBB</em></a> — 집합적 의례가 유사성·연합·헌신 신호를 통한 협력적 신호 플랫폼으로 진화했다는 타깃 논문; 아프리카 호미닌 계통에서 ~300 ka 출현 추정</li>
 </ul>
 </details>

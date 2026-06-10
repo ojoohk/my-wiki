@@ -13,6 +13,7 @@ Research on the mechanisms, evolution, and maintenance of cooperation in human a
 - **Costly signaling theory**: Signals are honest when production costs are high enough that only high-quality signalers find it profitable to produce them (Grafen, 1990; Zahavi & Zahavi, 1999). Applied to religion and ritual by Sosis (2003).
 - **Mutualistic cooperation**: Cooperation in which both parties benefit from the joint action; distinguished from altruistic cooperation. The primary type of cooperation facilitated by collective ritual signals (Lang & Kundt, 2023).
 - **Collective action problem**: The challenge of coordinating collective effort when individual defection or free-riding is tempting; the core selective pressure on cooperative signaling in the hominin lineage.
+- **Reputation (religious signaling)**: Peers' attributions of prosocial character traits based on observed religious practice; operationalized as free-list nominations; Power (2017) shows regular worship is more strongly associated with reputation for generosity and good character than dramatic costly acts.
 
 ## History of Debates
 
@@ -25,9 +26,11 @@ Research on the mechanisms, evolution, and maintenance of cooperation in human a
 ## Key Literature (Ingested)
 
 <details>
-<summary>Other-journal references (1 paper)</summary>
+<summary>Other-journal references (3 papers)</summary>
 <ul>
+<li><a href="../../references/Power_2017_EHB.md">Power (2017) <em>EHB</em></a> — ethnographic test showing religious practice builds prosocial reputation; regular worship most strongly associated with generosity and good character; receiver-side evidence for costly signaling theory of religion</li>
 <li><a href="../../references/Lang_Kundt_2023_RBB.md">Lang & Kundt (2023) <em>RBB</em></a> — evolutionary model of how cooperative signaling drives collective ritual; applies costly signaling theory to commitment signals; links cooperation to similarity, coalitional, and commitment signal types</li>
+<li><a href="../../references/Roes_Raymond_2003_EHB.md">Roes & Raymond (2003) <em>EHB</em></a> — cross-cultural test of Alexander's morality theory; moralizing gods as mechanism for moral-rule enforcement enabling large-group cooperation; between-group competition as driver of cooperative coalitions</li>
 </ul>
 </details>
 
@@ -56,6 +59,7 @@ Research on the mechanisms, evolution, and maintenance of cooperation in human a
 - **비용 신호 이론**: 신호 생산 비용이 충분히 높아서 고품질 신호자만이 신호 생산을 수익성 있게 여길 때 신호가 정직해진다는 이론 (Grafen, 1990; Zahavi & Zahavi, 1999). 종교와 의례에 적용: Sosis (2003).
 - **상호주의적 협력**: 공동 행동으로 양 당사자 모두 이익을 얻는 협력; 이타적 협력과 구별됨.
 - **집합 행동 문제**: 개인의 이탈 또는 무임승차 유인이 있을 때 집합적 노력을 조율하는 문제.
+- **평판 (종교적 신호)**: 관찰된 종교 행위를 바탕으로 동료들이 부여하는 친사회적 인격 특질; 자유 목록(free-list) 지명으로 측정; Power (2017)는 정기 예배가 관용·인품 평판과 가장 강하게 연관됨을 입증.
 
 ## 논쟁의 역사
 
@@ -68,8 +72,9 @@ Research on the mechanisms, evolution, and maintenance of cooperation in human a
 ## 주요 문헌 (인제스트됨)
 
 <details>
-<summary>기타 학술지 문헌 (1편)</summary>
+<summary>기타 학술지 문헌 (2편)</summary>
 <ul>
+<li><a href="../../references/Power_2017_EHB.md">Power (2017) <em>EHB</em></a> — 종교 행위가 친사회적 평판 신호로 기능함을 현지조사로 검증; 정기 예배가 관용·인품 평판과 강하게 연관; 비용 신호 이론의 수신자 측 증거</li>
 <li><a href="../../references/Lang_Kundt_2023_RBB.md">Lang & Kundt (2023) <em>RBB</em></a> — 협력적 신호가 집합적 의례를 구동하는 방식에 대한 진화 모델; 비용 신호 이론을 헌신 신호에 적용</li>
 </ul>
 </details>
