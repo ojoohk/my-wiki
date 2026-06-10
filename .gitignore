@@ -35,5 +35,5 @@ rag_db/
 # User's own wiki content — when this template is cloned for actual use,
 # these folders get populated with personal research. Uncomment if you want
 # the template repo itself to keep these empty:
-# papers/
-# papers_web/
+papers/
+papers_web/
