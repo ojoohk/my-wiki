@@ -31,9 +31,31 @@ Research on the form, function, and evolution of ritual behavior, with emphasis 
 ## Key Literature (Ingested)
 
 <details>
-<summary>Other-journal references (2 papers)</summary>
+<summary>EHB references (2 papers)</summary>
 <ul>
 <li><a href="../../references/Power_2017_EHB.md">Power (2017) <em>EHB</em></a> — ethnographic test of religious signaling in Tamil Nadu (N=809); three religious modalities form multimodal/multiplex signaling system; regular worship associated with strongest prosocial reputation effects; receiver-side evidence for signaling theory of religion</li>
+<li><a href="../../references/Planer_Sterelny_2026_EHB.md">Planer & Sterelny (2026) <em>EHB</em></a> — cultural evolutionary model of shamanism and sorcery belief; shamanistic rituals (altered states, spirit journeys, healing/divination) as the ideological precondition for belief in sorcerers; fireside niche as the site for elaborating animistic ritual culture; stage 2 details how shamanic credibility is established through extreme physical/pharmacological ordeals as credibility-enhancing displays</li>
+</ul>
+</details>
+
+<details>
+<summary>HN references (2 papers)</summary>
+<ul>
+<li><a href="../../references/Boyer_2021_HN.md">Boyer (2021) <em>HN</em></a> — Good Source model predicting cross-cultural features of shamanism, divination, witchcraft, and ancestor cults; specialists (shamans, healers, diviners) acquire essential-quality status through reputation cascades driven by threat-detection and epistemic vigilance dynamics; explains why specialists are universally construed as inherently different rather than technically trained</li>
+<li><a href="../../references/Hong_Henrich_2021_HN.md">Hong & Henrich (2021) <em>HN</em></a> — divination as epistemic technology; Bayesian belief-updating model shows how cultural transmission biases (strong priors, underreporting, behavior-observation) sustain belief in epistemically ineffective ritual practices; Yi and Wa ethnographic case (SW China)</li>
+</ul>
+</details>
+
+<details>
+<summary>BBS references (1 paper)</summary>
+<ul>
+<li><a href="../../references/Singh_2018_BBS.md">Singh (2018) <em>BBS</em></a> — cultural evolutionary theory of shamanism; trance explained as drama of strangeness (behavioral violations of humanness) rather than altered neurophysiological state; initiation/asceticism as transformative practices signaling non-humanity, not cooperative intent; jurisdiction over uncertain outcomes; target article with open peer commentary</li>
+</ul>
+</details>
+
+<details>
+<summary>Other-journal references (1 paper)</summary>
+<ul>
 <li><a href="../../references/Lang_Kundt_2023_RBB.md">Lang & Kundt (2023) <em>RBB</em></a> — target article proposing collective ritual evolved as cooperative signaling platform via similarity, coalitional, and commitment signals; conjectures ~300 ka emergence in African hominin lineage</li>
 </ul>
 </details>
@@ -79,9 +101,31 @@ Research on the form, function, and evolution of ritual behavior, with emphasis 
 ## 주요 문헌 (인제스트됨)
 
 <details>
-<summary>기타 학술지 문헌 (2편)</summary>
+<summary>EHB 문헌 (2편)</summary>
 <ul>
 <li><a href="../../references/Power_2017_EHB.md">Power (2017) <em>EHB</em></a> — 남인도 타밀나두 현지조사 (N=809); 세 종교 양식이 다중 채널·다중 메시지 신호 체계를 구성함을 실증; 정기 예배가 극적 의례보다 친사회적 평판에 미치는 효과가 강함</li>
+<li><a href="../../references/Planer_Sterelny_2026_EHB.md">Planer & Sterelny (2026) <em>EHB</em></a> — 샤머니즘과 요술 신념에 대한 문화 진화 모델; 샤머니즘 의례(변성 의식 상태, 영혼 여행, 치유·점술)를 요술 신념의 이념적 전제 조건으로 제시; 모닥불 문화 영역(fireside niche)을 애니미즘 의례 문화의 발생지로 논증</li>
+</ul>
+</details>
+
+<details>
+<summary>HN 문헌 (2편)</summary>
+<ul>
+<li><a href="../../references/Boyer_2021_HN.md">Boyer (2021) <em>HN</em></a> — 좋은 정보원 모델로 샤머니즘·점술·요술·조상 숭배의 문화 횡단 특성 예측; 전문가(샤먼·치료사·점술사)가 위협 탐지와 인식론적 경계심 역학이 만드는 평판 연쇄를 통해 본질적 권위를 획득하는 과정 설명; 전문가가 기술 훈련이 아니라 고유한 내적 자질로 간주되는 이유를 생산자 측 모델로 해명</li>
+<li><a href="../../references/Hong_Henrich_2021_HN.md">Hong & Henrich (2021) <em>HN</em></a> — 점술을 인식론적 기술로 재정의; Bayesian 믿음 갱신 모델로 문화 전달 편향(강한 사전 믿음, 부정적 증거 미보고, 행동 관찰에서의 믿음 오추론)이 비효과적 의례 관행에 대한 믿음을 유지시키는 방식을 설명; 중국 이족·와족 현지조사</li>
+</ul>
+</details>
+
+<details>
+<summary>BBS 문헌 (1편)</summary>
+<ul>
+<li><a href="../../references/Singh_2018_BBS.md">Singh (2018) <em>BBS</em></a> — 샤머니즘의 문화 진화 이론; 트랜스를 변성 신경생리학적 상태가 아닌 '기이함의 드라마'로 설명; 입문 의례·금욕을 협력 의도가 아닌 비인간성 변형의 증거로 제시; 불확실한 결과에 대한 관할권 논리; 타깃 논문 + 공개 동료 논평 형식</li>
+</ul>
+</details>
+
+<details>
+<summary>기타 학술지 문헌 (1편)</summary>
+<ul>
 <li><a href="../../references/Lang_Kundt_2023_RBB.md">Lang & Kundt (2023) <em>RBB</em></a> — 집합적 의례가 유사성·연합·헌신 신호를 통한 협력적 신호 플랫폼으로 진화했다는 타깃 논문; 아프리카 호미닌 계통에서 ~300 ka 출현 추정</li>
 </ul>
 </details>

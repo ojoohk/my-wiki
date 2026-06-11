@@ -1,5 +1,10 @@
+Andre_etal_2023_EHS
+Planer_Sterelny_2026_EHB
 Lang_Kundt_2023_RBB
 Northover_etal_2024_EHB
 Power_2017_EHB
 Roes_Raymond_2003_EHB
 Sosis_2003_HN
+Hong_Henrich_2021_HN
+Boyer_2021_HN
+Singh_2018_BBS

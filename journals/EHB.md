@@ -4,6 +4,10 @@ Flagship journal of the Human Behavior and Evolution Society (HBES). Publishes e
 
 ---
 
+## 2026
+
+- [Planer & Sterelny (2026) *EHB*](../references/Planer_Sterelny_2026_EHB.md) — "Rise of the Dark Shaman: A Path from Healers to Sorcery" — theoretical paper; three-stage cultural evolutionary model (animism → shamanism → sorcery belief); "erosion of mutualism" model; no empirical data; critiques religion adaptationism, cost asymmetries, and strategic accusation explanations; six empirical predictions listed
+
 ## 2024
 
 - [Northover et al. (2024) *EHB*](../references/Northover_etal_2024_EHB.md) — "Religious Signaling and Prosociality: A Review of the Literature" — review article; PsycInfo search "relig*" AND "signal*" (January 8, 2023); two organizing questions: does religious practice enhance trust/prosociality? does it signal ingroup commitment?; key conclusion: perceived trustworthiness is robust for ingroup members but actual prosociality is inconclusive; routine practice linked to ingroup favoritism, high-cost collective rituals to expanded identity and outgroup tolerance

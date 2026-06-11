@@ -1,190 +1,131 @@
-# Category Landing Page Template
+# Cultural Evolution — Theory, Mechanisms, and Symbolic Culture
 
-Use for: the entry point of a `general/{category}/` folder. One per category, named `0_index.md` (the leading `0_` makes Obsidian/file managers sort it first).
-
-**File location**: `general/{category}/0_index.md`. Examples:
-- `general/stratification/0_index.md`
-- `general/labor_markets/0_index.md`
-- `general/race_ethnicity/0_index.md`
-
-```markdown
-# [Category Name] — [One-Line Description]
-
-[Category one-line description.]
+Research on how cultural traits originate, spread, and change across populations; debates between consumer-side and producer-side models of transmission; evolutionary explanations for symbolic culture.
 
 ## Related Projects
 
 | Project | Role | Cross-categories |
 |---|---|---|
-| [2025_ProjectName](../../projects/2025/2025_ProjectName/index.md) | primary | education |
-| [2025_OtherProject](../../projects/2025/2025_OtherProject/index.md) | cross | education, labor_markets |
+| — | — | — |
 
 ## Core Concepts
 
-Concept definitions and theoretical commitments specific to this category. Either define concepts inline (for short ones) or link to dedicated concept pages:
-
-- **[Concept Name](concept_slug.md)**: one-line definition.
-- **[Another Concept](other_concept.md)**: one-line definition.
-- **Less-developed concept (kept inline)**: full definition here (200 words or less; split to dedicated page if larger).
+- **Symbolic culture**: Art, narratives, religious representations, games, sports, ethnic ideologies, moral norms; domain defined by apparent difficulty of direct fitness explanation (André et al., 2023).
+- **Dual inheritance theory**: Boyd & Richerson (1985); individuals acquire social information via content-free heuristics (conformist bias, prestige bias); primary unit of analysis is the consumer/recipient.
+- **Cultural attraction theory**: Claidière, Scott-Phillips, & Sperber (2014); domain-specific evolved preferences govern acquisition and reconstruction of cultural information; focuses on receiver-side psychology.
+- **Producers' standpoint**: Argument that fitness costs and benefits of cultural *production*, not consumption, should anchor cultural evolution models; cultural products as producer extended phenotype (André et al., 2023).
+- **Social evolution theory** (applied to culture): Hamilton (1964) four-type matrix — altruism, selfishness, mutualism, spite — applied to classify cultural production by joint producer/consumer fitness effects.
 
 ## History of Debates
 
-Chronological narrative of the major debates in this category. *Not* a list of papers — a story of how the field's understanding moved.
+*To be written after ingest accumulates (threshold: 5+ references in this category).*
 
-> Example: "The 1950s saw [classical claim]; the 1980s introduced [supply-demand framing]; the 2010s saw the [economic-vs-cultural] debate dominate, with [synthesis emerging in 2015+]."
+## Recent Themes (Last 5–10 Years)
 
-Each major moment cites a key paper. Typically 4-7 paragraphs covering 30-50 years.
-
-Write this section *only when* the wiki has ingested 5+ references in this category. Until then, leave it as `*To be written after ingestion accumulates*`.
-
-## Recent Themes (Last 5-10 Years)
-
-What's currently active in the field? New methodological moves? Open questions? Unresolved debates?
-
-Write this section *only after* the wiki has ingested papers from the past 5-10 years in this category.
+*To be written after ingest accumulates (threshold: 5+ references from 2015–2025).*
 
 ## Key Literature (Ingested)
 
-Tracked sociology journal papers shown unfolded (most prominent first by recency / centrality). Other journals collapsed in details blocks.
-
-### By Project
-
-#### [Project 1 Name]
-
-- [Author (Year) *ASR*](../../references/{file}.md) — one-line relevance for this project + this category
-- [Author (Year) *AJS*](../../references/{file}.md) — ...
-
-#### [Project 2 Name]
-
-- [Author (Year) *Dem*](../../references/{file}.md) — ...
-
 <details>
-<summary>Other-journal references (N papers)</summary>
+<summary>EHB references (1 paper)</summary>
 <ul>
-<li><a href="path">Author (Year) <em>ESR</em></a> — note</li>
-<li><a href="path">Author (Year) <em>JEPP</em></a> — note</li>
+<li><a href="../../references/Planer_Sterelny_2026_EHB.md">Planer & Sterelny (2026) <em>EHB</em></a> — "erosion of mutualism" cultural evolutionary model of sorcery belief; three-stage trajectory (animism → shamanism → dark shamans); myside bias as the cumulative transmission mechanism; critiques religion adaptationism, cost asymmetries, and strategic accusation; six empirical predictions</li>
 </ul>
 </details>
 
 <details>
-<summary>Non-English references (N papers)</summary>
+<summary>HN references (2 papers)</summary>
 <ul>
-<li><a href="path">Author (Year) <em>Journal</em></a> — note</li>
+<li><a href="../../references/Boyer_2021_HN.md">Boyer (2021) <em>HN</em></a> — Good Source model: epistemic vigilance + threat-detection psychology generate communication dynamics that predict five recurrent features of wild (pre-doctrinal) religious traditions; production-side account of why people are motivated to formulate and broadcast threat-related explanations of misfortune; five predictions on misfortune focus, inscrutability, specificity, specialization, and specialist essentialism</li>
+<li><a href="../../references/Hong_Henrich_2021_HN.md">Hong & Henrich (2021) <em>HN</em></a> — divination as epistemic technology; Bayesian agent-based simulation identifies three mechanisms of overestimation (strong priors, underreporting of negative evidence, misinferring belief from observed behavior); cultural group selection account for spread of scientific epistemology; ethnographic fieldwork among Yi and Wa in SW China</li>
 </ul>
 </details>
 
-<!-- Optional: separate sub-blocks per non-Latin script if you have many.
-     Korean example below — substitute any non-English language as needed. -->
+<details>
+<summary>BBS references (1 paper)</summary>
+<ul>
+<li><a href="../../references/Singh_2018_BBS.md">Singh (2018) <em>BBS</em></a> — cultural evolutionary theory of shamanism: trance as drama of strangeness violating folk notions of humanness; initiation as transformation to claim jurisdiction over uncertain outcomes; explains near-universal professionalization via entry requirements; seven conditions for dissolution; secondary analysis of Winkelman & White (1987) cross-cultural database (43 societies with trance practitioners)</li>
+</ul>
+</details>
 
 <details>
-<summary>한국 문헌 (N papers) — Korean example</summary>
+<summary>Other-journal references (1 paper)</summary>
 <ul>
-<li><a href="path">저자 (연도) <em>학술지</em></a> — 메모</li>
+<li><a href="../../references/Andre_etal_2023_EHS.md">André, Baumard & Boyer (2023) <em>EHS</em></a> — theoretical proposal to center cultural evolution on producer fitness; Hamilton social evolution framework applied to symbolic culture; extended phenotype claim</li>
 </ul>
 </details>
 
 ## Data Sources
 
-Major datasets used by papers in this category, with paths if institutionally maintained:
-
-- **Dataset Name** (years covered) — short description + access info
-- **Another Dataset** (years) — ...
+*None ingested yet.*
 
 ## Sub-pages
 
-If the category has spawned dedicated sub-pages (concept pages, sub-topic pages):
-
-- [`hyper_selectivity.md`](hyper_selectivity.md) — concept page (12 papers in empirical record)
-- [`subjective_status.md`](subjective_status.md) — sub-topic page (8 papers)
+*None yet.*
 
 ---
 
-# [Category Name in your primary language]
+# 문화 진화 — 이론, 메커니즘, 상징 문화
 
-(Optional **your-language mirror**, identical structure. Korean shown as one example;
-substitute Spanish, Chinese, Japanese, German, etc. Use this only if your wiki follows
-Language Policy Option C — your-language + English. Omit otherwise.)
+문화적 특성이 집단 내에서 어떻게 발생하고 확산되며 변화하는지 연구하는 분야. 문화 전달의 소비자 중심 모델과 생산자 중심 모델 간의 논쟁, 상징 문화에 대한 진화론적 설명.
 
-Korean example:
-# [범주명] — [한 줄 설명]
-[본문]
+## 핵심 개념
 
-[etc.]
-```
+- **상징 문화**: 예술, 서사, 종교적 표상, 게임, 스포츠, 민족 이데올로기, 도덕 규범 등; 직접적인 적합도 이점으로 설명하기 어려운 영역으로 정의됨 (André et al., 2023).
+- **이중 상속 이론**: Boyd & Richerson (1985); 내용 중립적 휴리스틱(동조 편향, 위신 편향)을 통한 사회적 정보 획득; 소비자/수용자 중심.
+- **문화적 유인 이론**: Claidière, Scott-Phillips & Sperber (2014); 영역 특이적 진화된 선호가 문화 정보의 획득·재구성을 지배함; 수용자 심리학 중심.
+- **생산자 관점**: 문화 진화 모델의 분석 단위를 소비가 아닌 *생산*의 적합도 비용·편익으로 전환해야 한다는 논거; 문화 산물을 생산자의 확장 표현형으로 파악 (André et al., 2023).
+- **사회 진화 이론** (문화에 적용): Hamilton (1964)의 4유형 행렬 — 이타성, 이기성, 상호공생, 적의 — 을 문화 생산의 생산자·소비자 적합도 효과에 따른 분류에 적용.
 
----
+## 관련 프로젝트
 
-## Discipline Rules
-
-### Don't Write Until You Have Evidence
-
-The two narrative sections — **History of Debates** and **Recent Themes** — should be empty (with `*pending ingest*` placeholder) until you have:
-- 5+ ingested references in the category (history)
-- 5+ ingested references from the past 5-10 years (recent themes)
-
-Writing these sections from general knowledge is the violation pattern. They must reflect *what's in the wiki*, not what you know about the field.
-
-### Tracked vs Non-Tracked Journals
-
-Tracked journals (`ASR`, `AJS`, `SF`, `ARS`, `Dem`, `RSSM`, `WO`, `IMR`, `JMF`, `GS`, `Socius`, `ESR`, `BJS`, `SSR`, `SMR/SM`, Econ top-5, PolSci top-5, Psych top-5, and your field-specific Korean/Chinese/Japanese journals if applicable) get unfolded display. Non-tracked journals go in collapsed details blocks. Korean papers go in their own details block.
-
-This isn't a quality judgment about non-tracked journals — it's a navigation choice. Unfolding all references makes the category page unreadable past ~30 ingests.
-
-### Author Posts Don't Belong Here
-
-The user's own published papers (you) belong in `journals/{Journal}.md` and `index.md` "Published" section, NOT in a separate "Author's Contributions" block within category pages. Treat them as ordinary references that happen to be authored by you.
-
-### Inline Concept Definitions vs Dedicated Pages
-
-A concept gets a dedicated page (`general/{category}/{concept}.md`) when:
-- 3+ ingested references use it
-- The category page's inline definition has grown past ~200 words
-- The user's project hinges on it
-
-Below those thresholds, keep it inline in the **Core Concepts** section.
-
----
-
-## Filled-In Example (Stratification Category)
-
-```markdown
-# Stratification — Mobility, Inequality, Class, Status Attainment
-
-The stratification category covers research on social mobility, income/wealth inequality, class structure, status attainment, and intergenerational reproduction.
-
-## Related Projects
-
-| Project | Role | Cross-categories |
+| 프로젝트 | 역할 | 교차 범주 |
 |---|---|---|
-| [2025_ExampleProject](../../projects/2025/2025_ExampleProject/index.md) | primary | education |
-| [2025_PanelExample](../../projects/2025/2025_PanelExample/index.md) | primary | — |
-| [2026_NationalSurveyExample](../../projects/2026/2026_NationalSurveyExample/index.md) | primary | education |
+| — | — | — |
 
-## Core Concepts
+## 논쟁의 역사
 
-- **[Cumulative Advantage](cumulative_advantage.md)**: Matthew-effect mechanism for inequality growth across the life course.
-- **[Status Attainment](status_attainment.md)**: Blau-Duncan framework of father-son occupational transmission.
-- **[Horizontal Stratification](horizontal_stratification.md)**: Within-tier educational sorting as a stratification mechanism distinct from access.
-- **Income Inequality**: see [`income_inequality.md`](income_inequality.md) — concept page with cross-national empirical record.
+*수집 완료 후 작성 (기준: 이 범주 내 5편 이상 인제스트).*
 
-## History of Debates
+## 최근 주제 (최근 5–10년)
 
-The classical claim, dominant through the 1950s-1960s, was that industrial societies converge on a meritocratic occupational structure with high mobility (functionalism; Davis-Moore, Treiman). The 1980s introduced...
+*수집 완료 후 작성 (기준: 2015–2025년 문헌 5편 이상).*
 
-[continued narrative — 4-7 paragraphs]
+## 주요 문헌 (인제스트 완료)
 
-## Recent Themes (Last 5-10 Years)
+<details>
+<summary>EHB 문헌 (1편)</summary>
+<ul>
+<li><a href="../../references/Planer_Sterelny_2026_EHB.md">Planer & Sterelny (2026) <em>EHB</em></a> — 주술 신념에 대한 '상호공생 침식' 문화 진화 모델; 3단계 궤적(애니미즘 → 샤머니즘 → 어둠의 샤먼); 자기편 편향을 세대 간 전달 메커니즘으로 설정; 종교 적응론·비용 비대칭·전략적 고발 설명 비판; 6가지 경험적 예측</li>
+</ul>
+</details>
 
-Active hubs include subjective status (Ridgeway et al.), intergenerational mobility decomposition (Chetty et al. lineage), and...
+<details>
+<summary>HN 문헌 (2편)</summary>
+<ul>
+<li><a href="../../references/Boyer_2021_HN.md">Boyer (2021) <em>HN</em></a> — 좋은 정보원 모델(Good Source model): 인식론적 경계심 + 위협 탐지 심리학이 야생 종교 전통의 다섯 가지 반복 특성을 예측하는 커뮤니케이션 역학을 생성; 사람들이 불운에 대한 위협 관련 설명을 왜 생산·전파하려 하는지를 설명하는 생산자 측 설명; 불운 집중·불투명한 인과 과정·개별 사례 특정성·전문화·본질주의 다섯 가지 예측</li>
+<li><a href="../../references/Hong_Henrich_2021_HN.md">Hong & Henrich (2021) <em>HN</em></a> — 점술을 인식론적 기술로 재정의; Bayesian 행위자 기반 시뮬레이션으로 과대평가의 세 메커니즘 규명 (강한 사전 믿음, 부정적 증거 미보고, 관찰된 행동으로부터 믿음 오추론); 과학적 인식론의 확산을 문화적 집단 선택으로 설명; 중국 서남부 이족·와족 현지조사</li>
+</ul>
+</details>
 
-[continued]
+<details>
+<summary>BBS 문헌 (1편)</summary>
+<ul>
+<li><a href="../../references/Singh_2018_BBS.md">Singh (2018) <em>BBS</em></a> — 샤머니즘의 문화 진화 이론: 트랜스를 '기이함의 드라마'(인간성 직관 위반)로, 입문 의례를 불확실한 결과에 대한 관할권 주장을 위한 변형 증거로 설명; 근거리 전문직화를 입문 요건 논리로 해명; 해체 조건 7가지; Winkelman & White(1987) 교차문화 데이터베이스(43개 사회) 2차 분석</li>
+</ul>
+</details>
 
-## Key Literature (Ingested)
+<details>
+<summary>기타 학술지 문헌 (1편)</summary>
+<ul>
+<li><a href="../../references/Andre_etal_2023_EHS.md">André, Baumard & Boyer (2023) <em>EHS</em></a> — 문화 진화 분석의 초점을 생산자 적합도로 전환하는 이론적 제안; Hamilton 사회 진화 틀을 상징 문화에 적용; 확장 표현형 논거</li>
+</ul>
+</details>
 
-### 2025_ExampleProject
+## 데이터 출처
 
-- [Armstrong & Hamilton (2013) *Paying for the Party*](../../references/Armstrong_Hamilton_2013_PayingParty.md) — within-class differentiation by university experience
-- [Smith (2015) *Example Book Title*](../../references/Smith_2015_ExampleBook.md) — class-marriage dynamics
+*아직 없음.*
 
-[etc.]
-```
+## 하위 페이지
+
+*아직 없음.*

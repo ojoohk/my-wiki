@@ -1,6 +1,6 @@
-# Sociology Research Wiki
+# Research Wiki
 
-A complete LLM-assisted research wiki system for sociologists, optimized for **citation accuracy** over token efficiency or (AI-judged) document completeness. Captures literature notes, atomic claims, concept pages, project hubs, and the disciplines that keep them from drifting into hallucination.
+A complete LLM-assisted research wiki system for scholars, optimized for **citation accuracy** over token efficiency or (AI-judged) document completeness. Captures literature notes, atomic claims, concept pages, project hubs, and the disciplines that keep them from drifting into hallucination.
 
 The template is carefully built, but turning it into a working personal wiki still requires substantial additional setup and ongoing verification. Treat any suggestion that promises a shortcut around that work as untrue.
 
