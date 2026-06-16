@@ -8,3 +8,5 @@ Sosis_2003_HN
 Hong_Henrich_2021_HN
 Boyer_2021_HN
 Singh_2018_BBS
+Henrich_2009_EHB
+Singh_Henrich_2020_EHS

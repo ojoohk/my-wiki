@@ -31,8 +31,16 @@ Research on the form, function, and evolution of ritual behavior, with emphasis 
 ## Key Literature (Ingested)
 
 <details>
-<summary>EHB references (2 papers)</summary>
+<summary>EHS references (1 paper)</summary>
 <ul>
+<li><a href="../../references/Singh_Henrich_2020_EHS.md">Singh & Henrich (2020) <em>EHS</em></a> — field study + vignette experiment among Mentawai sago-horticulturalists (Siberut Island); documents shamanic taboos across 4 cultural regions; tests cooperative costly signalling, CREDs, and supernatural otherness; all three supported; belief effect strongest (Pr = 0.92); food and sex self-denial produce equivalent inferences; permanent dietary taboos target anomalous as well as costly animals</li>
+</ul>
+</details>
+
+<details>
+<summary>EHB references (3 papers)</summary>
+<ul>
+<li><a href="../../references/Henrich_2009_EHB.md">Henrich (2009) <em>EHB</em></a> — origin paper for CREDs; three-part theoretical argument: (1) CRED cognitive bias evolved to counter manipulation enabled by cheap symbolic communication; (2) replicator dynamics model shows CREDs sustain stable costly practice–belief combinations; (3) Cultural Group Selection favors costly acts that promote in-group cooperation and intergroup competitiveness; reviews psychological evidence across food preferences, opinion transmission, altruism, and counterintuitive concepts</li>
 <li><a href="../../references/Power_2017_EHB.md">Power (2017) <em>EHB</em></a> — ethnographic test of religious signaling in Tamil Nadu (N=809); three religious modalities form multimodal/multiplex signaling system; regular worship associated with strongest prosocial reputation effects; receiver-side evidence for signaling theory of religion</li>
 <li><a href="../../references/Planer_Sterelny_2026_EHB.md">Planer & Sterelny (2026) <em>EHB</em></a> — cultural evolutionary model of shamanism and sorcery belief; shamanistic rituals (altered states, spirit journeys, healing/divination) as the ideological precondition for belief in sorcerers; fireside niche as the site for elaborating animistic ritual culture; stage 2 details how shamanic credibility is established through extreme physical/pharmacological ordeals as credibility-enhancing displays</li>
 </ul>
@@ -99,6 +107,13 @@ Research on the form, function, and evolution of ritual behavior, with emphasis 
 *인제스트 축적 후 작성 예정 (참고문헌 5편 이상 필요).*
 
 ## 주요 문헌 (인제스트됨)
+
+<details>
+<summary>EHS 문헌 (1편)</summary>
+<ul>
+<li><a href="../../references/Singh_Henrich_2020_EHS.md">Singh & Henrich (2020) <em>EHS</em></a> — 멘타와이 사고 원예경작민 대상 현지 실험; 4개 문화권에서 샤먼 터부 문서화; 협력적 비용 신호·CREDs·초자연적 타자성 세 가설을 동시 검증해 모두 지지; 믿음 추론 효과 최강 (Pr = 0.92); 음식·성적 자기 부정이 동등한 추론을 유발함; 영구 식이 터부는 비용이 큰 동물뿐 아니라 이형적(anomalous) 동물도 표적으로 함</li>
+</ul>
+</details>
 
 <details>
 <summary>EHB 문헌 (2편)</summary>

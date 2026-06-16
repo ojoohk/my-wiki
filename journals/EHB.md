@@ -16,6 +16,10 @@ Flagship journal of the Human Behavior and Evolution Society (HBES). Publishes e
 
 - [Power (2017) *EHB*](../references/Power_2017_EHB.md) — "Discerning Devotion: Testing the Signaling Theory of Religion" — 20 months fieldwork, two Tamil Nadu villages (N=809); three religious modalities; receiver-side test of signaling theory; hurdle models
 
+## 2009
+
+- [Henrich (2009) *EHB*](../references/Henrich_2009_EHB.md) — "The Evolution of Costly Displays, Cooperation and Religion: Credibility Enhancing Displays and Their Implications for Cultural Evolution" — theoretical paper introducing CREDs; three-part argument: (1) cognitive adaptation to CRED bias to avoid manipulation; (2) replicator dynamics model showing multiple stable equilibria for costly practice–belief combinations; (3) CGS selects for costly acts that promote in-group cooperation; reviews psychological evidence from food preferences, opinion change, altruism, and counterintuitive concepts
+
 ## 2003
 
 - [Roes & Raymond (2003) *EHB*](../references/Roes_Raymond_2003_EHB.md) — "Belief in Moralizing Gods" — cross-cultural test (EA + SCCS); society size predicts moralizing gods; between-group competition chain confirmed

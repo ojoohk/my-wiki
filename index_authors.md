@@ -20,7 +20,7 @@ Alphabetical. CJK authors in dedicated section below.
 
 ## H
 
-- **Henrich, Joseph** — [Hong & Henrich (2021) *HN*](references/Hong_Henrich_2021_HN.md)
+- **Henrich, Joseph** — [Henrich (2009) *EHB*](references/Henrich_2009_EHB.md); [Hong & Henrich (2021) *HN*](references/Hong_Henrich_2021_HN.md); [Singh & Henrich (2020) *EHS*](references/Singh_Henrich_2020_EHS.md)
 - **Hong, Ze** — [Hong & Henrich (2021) *HN*](references/Hong_Henrich_2021_HN.md)
 
 ## K
@@ -51,6 +51,6 @@ Alphabetical. CJK authors in dedicated section below.
 
 ## S
 
-- **Singh, Manvir** — [Singh (2018) *BBS*](references/Singh_2018_BBS.md)
+- **Singh, Manvir** — [Singh (2018) *BBS*](references/Singh_2018_BBS.md); [Singh & Henrich (2020) *EHS*](references/Singh_Henrich_2020_EHS.md)
 - **Sosis, Richard** — [Sosis (2003) *HN*](references/Sosis_2003_HN.md)
 - **Sterelny, Kim** — [Planer & Sterelny (2026) *EHB*](references/Planer_Sterelny_2026_EHB.md)

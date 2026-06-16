@@ -1,3 +1,21 @@
+## [2026-06-14] ingest | Henrich_2009_EHB
+- origin paper for credibility-enhancing displays (CREDs)
+- new concepts/theories: cultural_group_selection (CGS) as standalone entry; prestige_biased_transmission (new entry)
+- updated index_detail.md: credibility_enhancing_displays (added Henrich 2009 as source); cultural_group_selection (new entry); prestige_biased_transmission (new entry)
+- journals/EHB.md updated (2009 section added)
+- general/ritual/0_index.md updated (EHB section: Henrich 2009 prepended, count 2→3)
+- index_authors.md updated (H: Henrich 2009 added)
+- z_references_index.md updated
+- layer: Layer 1 (papers/papers_md/Henrich_2009_EHB.md); OCR on pp. 0, 8, 10; core text confirmed clean throughout; formal model equations partially encoded as pictures (Δϕ, Δq recursions and equilibrium conditions) but all model parameters, parameter table, and example values confirmed from surrounding text
+
+## [2026-06-14] ingest | Singh_Henrich_2020_EHS
+- new concepts: supernatural_otherness, cultural_consensus_analysis (method)
+- updated index_detail.md: costly_signaling_theory (added Singh & Henrich 2020); credibility_enhancing_displays (added Singh & Henrich 2020); S: supernatural_otherness (new); C: cultural_consensus_analysis (new)
+- journals/EHS.md updated (2020 section added below 2023)
+- general/ritual/0_index.md updated (EHS section added: 1 paper)
+- index_authors.md updated (H: Henrich extended; S: Singh extended)
+- layer: Layer 1 (papers/papers_md/Singh_Henrich_2020_EHS.md); OCR on several pages; core text confirmed clean throughout
+
 ## [2026-06-11] ingest | Singh_2018_BBS
 - new theories: cultural_evolutionary_theory_of_shamanism, drama_of_strangeness, transformative_practices, uncertain_outcomes
 - new concepts: drama_of_strangeness, shamanism (Singh 2018 definition), transformative_practices, uncertain_outcomes
