@@ -1,3 +1,52 @@
+## [2026-07-10] ingest | Zahavi_1975_JTB
+- "Mate Selection—A Selection for a Handicap," *Journal of Theoretical Biology* 53:205–214
+- purely theoretical paper (no data, no N, no method); Data & Methods records the verbal/graphical argument (Fig. 1) + ornithological illustrative cases, and Zahavi's own statement that the discussion "will have to be speculative" and "the cases are not presented as a proof of the handicap principle"
+- new theories: handicap_principle, sexual_selection
+- new concepts (index_detail.md): handicap principle (H); sexual selection / Zahavi's mate-preference model (S)
+- updated index_detail.md: costly signaling theory entry now names Zahavi (1975) as the framework's founding statement and links it
+- general/cooperation/0_index.md updated: Core Concepts +1 (handicap principle) and costly-signaling bullet amended (EN + KO mirror); Other-journal references block 3→4 papers (EN), 2→3 (KO)
+- journals/JTB.md created (new journal — Journal of Theoretical Biology / Elsevier)
+- index_authors.md updated (new section: Z — Zahavi, Amotz)
+- index.md cooperation category updated
+- z_references_index.md updated
+- Scholarly Conversation: 2 "extended by" bullets (Sosis 2003, Northover et al. 2024), both verified as citing Zahavi 1975 by name in their own text. Deliberately NO link to Lang & Kundt (2023) — it cites only Zahavi & Zahavi (1999), not the 1975 paper. Power (2017) and Singh & Henrich (2020) do not cite Zahavi at all. No "builds on" bullets: none of Zahavi's own sources (Darwin, Fisher, Williams, Trivers, Maynard Smith, Wynne-Edwards, O'Donald, Emlen) are ingested
+- projects: [] — costly-signaling relevance to 2026_KoreanReligionEBS not asserted; left for user
+- layer: Layer 1 (papers/papers_md/Zahavi_1975_JTB.md); full read. Scanned original — pymupdf4llm ran OCR on all 10 pages; body text intact, but REFERENCES-list surnames corrupted (Fisoer/Wirxiams/Wa.tace) and Fig. 1's in-image axis labels lost; author names taken from body text, figure described from caption only
+- drift observed, NOT auto-fixed (needs `scripts/lint.py` or user call): (a) themes tag taxonomy split CamelCase vs snake_case across 14 refs; (b) index_detail.md letter headers duplicated and out of order; (c) index_authors.md has Q after R; (d) index.md says "Reference Count: 2" but 15 refs exist and its category lists are ~11 papers behind; (e) general/cooperation KO mirror was missing Roes & Raymond (2003)
+
+## [2026-07-02] project | 2026_KoreanReligionEBS
+- new project hub: "진화행동과학의 틀로 분석하는 한국종교 현상" (projects/2026/2026_KoreanReligionEBS/)
+- primary category: korean_religions; cross: ritual, csr, cultural_evolution, hbe
+- framework built on 9 already-ingested refs (Boyer 2021, Henrich 2009, Lang & Kundt 2023, Norenzayan et al. 2016, Planer & Sterelny 2026, Roes & Raymond 2003, Singh 2018, Sosis 2003, Walraven 2002)
+- H1–H4 marked DRAFT; Data/Methods/Findings left blank (no Korea-specific empirical sources ingested yet)
+- index.md Active Projects updated; reference frontmatter untouched (no mass-edit)
+- EN mirror included (Language Policy Option C)
+
+## [2026-07-02] ingest | Walraven_2002_RKS
+- "Weavers of Ritual: How Shamans Achieve Their Aims," *The Review of Korean Studies* 5(1):85–104
+- qualitative/interpretive fieldwork article on Korean shamanic *kut* (Hwanghae & Seoul styles); not quantitative — Data & Methods describes participant observation (Seoul/Inch'ŏn, mostly 1999–2000)
+- new theory: rational_choice_religion (rational actor axiom applied to religion, Stark & Finke 2000)
+- new concepts (index_detail.md): rational actor axiom applied to religion (R); shiwon-hada / kut as psychological transaction (S); putt'a / p'ulda attaching-unbinding metaphors (P); kongsu oracles (K, new section)
+- general/ritual/0_index.md updated: 3 new Core Concepts (EN + KO mirror); Other-journal references block 1→2 papers (EN + KO)
+- journals/RKS.md created (new journal — The Review of Korean Studies / Academy of Korean Studies)
+- index_authors.md updated (new: Walraven, Boudewijn — W)
+- z_references_index.md updated
+- note: korean_religions/0_index.md left untouched (still raw template, uninitialized); paper filed under ritual category, its populated home
+- Scholarly Conversation: no citational links (paper's bibliography does not overlap any wiki reference); 3 curatorial "related to" bullets to the shamanism cluster (Singh 2018, Boyer 2021, Planer & Sterelny 2026)
+- layer: Layer 1 (papers/papers_md/Walraven_2002_RKS.md); full read, clean conversion (OCR flagged on p.19 but full text confirmed intact)
+
+## [2026-06-25] ingest | Norenzayan_etal_2016_BBS
+- BBS target article (7 authors): "The Cultural Evolution of Prosocial Religions"
+- new concepts/theories: Big Gods (B); prosocial religions (P); supernatural punishment hypothesis / SPH (S); supernatural monitoring, third-party (S); doctrinal mode of ritual (D); religious priming (R); Axial Age critique (A)
+- updated index_detail.md: credibility_enhancing_displays (added Norenzayan et al. 2016 + Zeus Problem note); cultural_group_selection (added Norenzayan et al. 2016); moralizing gods (added Norenzayan et al. 2016)
+- journals/BBS.md updated (2016 section added above 2018)
+- general/csr/0_index.md updated (new BBS references block, 1 paper)
+- general/cultural_evolution/0_index.md updated (BBS block 1→2 papers)
+- index_authors.md updated (new: Gervais G, McNamara M, Norenzayan N, Shariff S, Slingerland S, Willard W; Henrich H extended)
+- index.md updated (csr category)
+- z_references_index.md updated
+- layer: Layer 1 (papers/papers_md/Norenzayan_etal_2016_BBS.md); full read of target article (sections 1–7, pp. 1–19); OCR flagged on 4 page-pairs but target-article text confirmed clean; commentaries + authors' response (pp. 19–65) not summarized
+
 ## [2026-06-14] ingest | Henrich_2009_EHB
 - origin paper for credibility-enhancing displays (CREDs)
 - new concepts/theories: cultural_group_selection (CGS) as standalone entry; prestige_biased_transmission (new entry)

@@ -10,3 +10,6 @@ Boyer_2021_HN
 Singh_2018_BBS
 Henrich_2009_EHB
 Singh_Henrich_2020_EHS
+Norenzayan_etal_2016_BBS
+Walraven_2002_RKS
+Zahavi_1975_JTB

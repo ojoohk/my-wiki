@@ -19,6 +19,9 @@ Research on the form, function, and evolution of ritual behavior, with emphasis 
 - **Ontogenetic ritualization**: Process by which a dyad shortens an idiosyncratic string of gestures into a simple placeholder gesture through repeated interaction (Tomasello et al., 1997).
 - **Multimodal religious signals**: Different modes of religious practice (regular worship, public ritual acts, possession) operating as distinct signaling channels with distinct costs and observability levels; each channel associated with a different reputational profile (Power, 2017).
 - **Multiplex religious signals**: Each religious modality simultaneously conveying information about multiple distinct character traits; distinct from multimodal (channels vs. messages); different receivers may attend to different aspects of the same religious act (Power, 2017).
+- **Ritual as practice (vs. reified tradition)**: Walraven's (2002) methodological stance — studying what a *kut* concretely does for its clients rather than treating it as an authentic "tradition" to be preserved; a "good" shaman is one whose ritual affects the clients and is therefore effective.
+- **Psychological transaction (*kut*)**: Walraven's (2002) characterization of the effective Korean shamanic ritual — the client is liberated from worries and given confidence to face the future; the emic criterion is *shiwon-hada* ("to feel relieved," antonym *taptap-hada*).
+- **Attaching / unbinding metaphors (*putt'a* / *p'ulda*)**: two versatile, valence-neutral metaphors Walraven (2002) identifies as underlying many *kut* actions — transferring blessings by physical contact vs. dissolving frustration, illness, or ancestral dissatisfaction.
 
 ## History of Debates
 
@@ -62,9 +65,10 @@ Research on the form, function, and evolution of ritual behavior, with emphasis 
 </details>
 
 <details>
-<summary>Other-journal references (1 paper)</summary>
+<summary>Other-journal references (2 papers)</summary>
 <ul>
 <li><a href="../../references/Lang_Kundt_2023_RBB.md">Lang & Kundt (2023) <em>RBB</em></a> — target article proposing collective ritual evolved as cooperative signaling platform via similarity, coalitional, and commitment signals; conjectures ~300 ka emergence in African hominin lineage</li>
+<li><a href="../../references/Walraven_2002_RKS.md">Walraven (2002) <em>RKS</em></a> — interpretive fieldwork on Korean shamanic <em>kut</em> (Hwanghae/Seoul styles, Seoul & Inch'ŏn, mostly 1999–2000); rational-actor / religious-practice framing; the effective <em>kut</em> as a psychological transaction organized around relief (<em>shiwon-hada</em>), individualized through food/cloth/money, divinatory feats, and <em>kongsu</em> oracles; the shaman as "equilibrist" weaving the <em>putt'a</em>/<em>p'ulda</em> metaphors</li>
 </ul>
 </details>
 
@@ -97,6 +101,9 @@ Research on the form, function, and evolution of ritual behavior, with emphasis 
 - **헌신 신호**: 위험한 공동 행동에 대한 헌신 강도를 정직하게 신호하는 고비용 행동(고통, 자원 낭비); 비용 신호 이론에 근거.
 - **다중 채널 종교 신호 (multimodal)**: 정기 예배·공적 의례 행위·빙의라는 세 종교 양식이 서로 다른 비용·관찰 가능성·평판 함의를 가진 별개의 신호 채널로 기능함 (Power, 2017).
 - **다중 메시지 종교 신호 (multiplex)**: 각 종교 양식이 동시에 여러 인격 특질에 대한 정보를 전달함; 수신자마다 동일한 의례 행위에서 서로 다른 측면(강인함 vs. 헌신)을 포착할 수 있음 (Power, 2017).
+- **실천으로서의 의례 (물화된 '전통'에 대비)**: Walraven(2002)의 방법론적 입장 — *kut*을 보존해야 할 진정한 '전통'으로 다루기보다 그것이 의뢰인에게 구체적으로 무엇을 해주는지를 연구함; '좋은' 무당은 과거 형식을 충실히 전승하는 이가 아니라 의뢰인에게 영향을 미쳐 효과를 내는 이.
+- **심리적 거래 (*kut*)**: Walraven(2002)이 효과적인 한국 무속 의례를 특징짓는 방식 — 의뢰인이 근심에서 해방되고 미래를 마주할 자신감을 얻음; 토착 기준은 *shiwon-hada*('시원하다', 반의어 *taptap-hada*).
+- **붙이기 / 풀기 은유 (*putt'a* / *p'ulda*)**: Walraven(2002)이 다수의 *kut* 행위 밑바탕에서 식별한 두 개의 다용도·가치중립적 은유 — 신체 접촉을 통한 축복의 전이 vs. 좌절·질병·조상의 불만의 해소.
 
 ## 논쟁의 역사
 
@@ -139,8 +146,9 @@ Research on the form, function, and evolution of ritual behavior, with emphasis 
 </details>
 
 <details>
-<summary>기타 학술지 문헌 (1편)</summary>
+<summary>기타 학술지 문헌 (2편)</summary>
 <ul>
 <li><a href="../../references/Lang_Kundt_2023_RBB.md">Lang & Kundt (2023) <em>RBB</em></a> — 집합적 의례가 유사성·연합·헌신 신호를 통한 협력적 신호 플랫폼으로 진화했다는 타깃 논문; 아프리카 호미닌 계통에서 ~300 ka 출현 추정</li>
+<li><a href="../../references/Walraven_2002_RKS.md">Walraven (2002) <em>RKS</em></a> — 한국 무속 <em>kut</em>(황해도·서울 양식, 서울·인천, 주로 1999–2000년)에 대한 해석적 현지조사; 합리적 행위자 공리와 '실천으로서의 종교' 관점; 효과적 <em>kut</em>을 해방감(<em>shiwon-hada</em>)을 중심으로 한 심리적 거래로 파악; 음식·천·돈, 점술적 묘기, <em>kongsu</em> 신탁을 통한 개인화; <em>putt'a</em>/<em>p'ulda</em> 은유를 엮는 '곡예사'로서의 무당</li>
 </ul>
 </details>

@@ -42,8 +42,9 @@ Research on how cultural traits originate, spread, and change across populations
 </details>
 
 <details>
-<summary>BBS references (1 paper)</summary>
+<summary>BBS references (2 papers)</summary>
 <ul>
+<li><a href="../../references/Norenzayan_etal_2016_BBS.md">Norenzayan et al. (2016) <em>BBS</em></a> — cultural-group-selection theory of prosocial religions; reconciles by-product and adaptationist approaches; CREDs and cultural learning biases as the engine of differential religious transmission; Big Gods and doctrinal rituals coevolve with societal scale; group selection via differential commune survival, conversion, fertility, and economic success</li>
 <li><a href="../../references/Singh_2018_BBS.md">Singh (2018) <em>BBS</em></a> — cultural evolutionary theory of shamanism: trance as drama of strangeness violating folk notions of humanness; initiation as transformation to claim jurisdiction over uncertain outcomes; explains near-universal professionalization via entry requirements; seven conditions for dissolution; secondary analysis of Winkelman & White (1987) cross-cultural database (43 societies with trance practitioners)</li>
 </ul>
 </details>

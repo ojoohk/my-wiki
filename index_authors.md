@@ -18,9 +18,13 @@ Alphabetical. CJK authors in dedicated section below.
 - **Cohen, Adam B.** — [Northover et al. (2024) *EHB*](references/Northover_etal_2024_EHB.md)
 - **Conroy-Beam, Daniel** — [Northover et al. (2024) *EHB*](references/Northover_etal_2024_EHB.md)
 
+## G
+
+- **Gervais, Will M.** — [Norenzayan et al. (2016) *BBS*](references/Norenzayan_etal_2016_BBS.md)
+
 ## H
 
-- **Henrich, Joseph** — [Henrich (2009) *EHB*](references/Henrich_2009_EHB.md); [Hong & Henrich (2021) *HN*](references/Hong_Henrich_2021_HN.md); [Singh & Henrich (2020) *EHS*](references/Singh_Henrich_2020_EHS.md)
+- **Henrich, Joseph** — [Henrich (2009) *EHB*](references/Henrich_2009_EHB.md); [Hong & Henrich (2021) *HN*](references/Hong_Henrich_2021_HN.md); [Norenzayan et al. (2016) *BBS*](references/Norenzayan_etal_2016_BBS.md); [Singh & Henrich (2020) *EHS*](references/Singh_Henrich_2020_EHS.md)
 - **Hong, Ze** — [Hong & Henrich (2021) *HN*](references/Hong_Henrich_2021_HN.md)
 
 ## K
@@ -31,8 +35,13 @@ Alphabetical. CJK authors in dedicated section below.
 
 - **Lang, Martin** — [Lang & Kundt (2023) *RBB*](references/Lang_Kundt_2023_RBB.md)
 
+## M
+
+- **McNamara, Rita A.** — [Norenzayan et al. (2016) *BBS*](references/Norenzayan_etal_2016_BBS.md)
+
 ## N
 
+- **Norenzayan, Ara** — [Norenzayan et al. (2016) *BBS*](references/Norenzayan_etal_2016_BBS.md)
 - **Northover, Stefanie B.** — [Northover et al. (2024) *EHB*](references/Northover_etal_2024_EHB.md)
 
 ## P
@@ -51,6 +60,17 @@ Alphabetical. CJK authors in dedicated section below.
 
 ## S
 
+- **Shariff, Azim F.** — [Norenzayan et al. (2016) *BBS*](references/Norenzayan_etal_2016_BBS.md)
 - **Singh, Manvir** — [Singh (2018) *BBS*](references/Singh_2018_BBS.md); [Singh & Henrich (2020) *EHS*](references/Singh_Henrich_2020_EHS.md)
+- **Slingerland, Edward** — [Norenzayan et al. (2016) *BBS*](references/Norenzayan_etal_2016_BBS.md)
 - **Sosis, Richard** — [Sosis (2003) *HN*](references/Sosis_2003_HN.md)
 - **Sterelny, Kim** — [Planer & Sterelny (2026) *EHB*](references/Planer_Sterelny_2026_EHB.md)
+
+## W
+
+- **Walraven, Boudewijn** — [Walraven (2002) *RKS*](references/Walraven_2002_RKS.md)
+- **Willard, Aiyana K.** — [Norenzayan et al. (2016) *BBS*](references/Norenzayan_etal_2016_BBS.md)
+
+## Z
+
+- **Zahavi, Amotz** — [Zahavi (1975) *JTB*](references/Zahavi_1975_JTB.md)

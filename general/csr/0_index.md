@@ -26,6 +26,13 @@ Research on the cognitive, evolutionary, and ecological foundations of religious
 ## Key Literature (Ingested)
 
 <details>
+<summary>BBS references (1 paper)</summary>
+<ul>
+<li><a href="../../references/Norenzayan_etal_2016_BBS.md">Norenzayan et al. (2016) <em>BBS</em></a> — cultural evolutionary theory of prosocial religions linking large-scale cooperation and the spread of Big Gods; four foundations (cognitive biases, third-party monitoring, cultural learning/CREDs, cultural group selection); Big Gods rare in small-scale and common in large-scale societies; religious priming meta-analysis (g = 0.27, 25 studies); critique of the Axial Age; reframes the supernatural punishment hypothesis as culturally rather than genetically selected</li>
+</ul>
+</details>
+
+<details>
 <summary>Other-journal references (2 papers)</summary>
 <ul>
 <li><a href="../../references/Power_2017_EHB.md">Power (2017) <em>EHB</em></a> — receiver-side test of signaling theory of religion; 20 months fieldwork, Tamil Nadu (N=809); three religious modalities predict distinct reputational qualities; multimodal and multiplex signal structure; hurdle models</li>
